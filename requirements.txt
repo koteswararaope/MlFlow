@@ -1,0 +1,6 @@
+mlflow
+ipykernel
+numpy
+pandas
+matplotlib
+scikit-learn
